@@ -12,7 +12,7 @@ public class OddEvenPosition {
         double evenSum = 0;
         double evenMax = Double.MAX_VALUE*(-1);
         double evenMin = Double.MAX_VALUE;
-
+        DecimalFormat df = new DecimalFormat("###.##");
         Scanner in = new Scanner(System.in);
         double n = Double.parseDouble(in.nextLine());
 
@@ -44,12 +44,30 @@ public class OddEvenPosition {
         }
 
 
-        System.out.println("OddSum="+oddSum);
-        System.out.println("OddMin="+oddMin);
-        System.out.println("OddMax="+oddMax);
-        System.out.println("EvenSum="+evenSum);
-        System.out.println("EvenMin="+evenMin);
-        System.out.println("EvenMax="+evenMax);
+        System.out.println("OddSum="+df.format(oddSum));
+        if (oddMin == Double.MAX_VALUE) {
+            System.out.println("OddMin=no");
+        } else {
+            System.out.println("OddMin="+df.format(oddMin));
+        }
+        if (oddMax ==  Double.MAX_VALUE*(-1)) {
+            System.out.println("OddMax=no");
+        } else {
+            System.out.println("OddMax="+df.format(oddMax));
+        }
+        System.out.println("EvenSum="+df.format(evenSum));
+        if (evenMin ==  Double.MAX_VALUE) {
+            System.out.println("EvenMin=no");
+        } else {
+            System.out.println("EvenMin="+df.format(evenMin));
+        }
+        if (evenMax ==  Double.MAX_VALUE*(-1)) {
+            System.out.println("EvenMax=no");
+        } else {
+            System.out.println("EvenMax="+df.format(evenMax));
+        }
+
+
 
     }
 }
