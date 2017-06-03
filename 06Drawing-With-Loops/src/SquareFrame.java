@@ -16,9 +16,9 @@ public class SquareFrame {
 // TODO: print the mid rows: | - - - |
         for (int j = 0; j < n - 2 ; j++) {
         System.out.print("|");
-        for (int i = 0; i < n - 2; i++) {
-            System.out.print(" -");
-        }
+            for (int i = 0; i < n - 2; i++) {
+                System.out.print(" -");
+            }
         System.out.println(" |");
     }
 
@@ -28,5 +28,6 @@ public class SquareFrame {
             System.out.print(" -");
         }
         System.out.println(" +");
+
     }
 }
