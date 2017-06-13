@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3e6124e-3b78-4f04-8a29-918ea9a0381c" name="Default" comment="Adding excersies from Lecture 6">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/Demo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/EvenPowersOf2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/GreatestCommonDivisor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/NumberInRange1to100.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/Numbers1NwithStep3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/NumbersN1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/PowersOfTwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/Sequence2k1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProgrammingBasicsJava.iml" afterPath="$PROJECT_DIR$/ProgrammingBasicsJava.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07Advanced-Loops/src/GreatestCommonDivisor.java" afterPath="$PROJECT_DIR$/07Advanced-Loops/src/GreatestCommonDivisor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,8 +81,8 @@
       <file leaf-file-name="EvenPowersOf2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07Advanced-Loops/src/EvenPowersOf2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="9" column="48" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -125,8 +111,8 @@
       <file leaf-file-name="GreatestCommonDivisor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07Advanced-Loops/src/GreatestCommonDivisor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1151,14 +1137,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07Advanced-Loops/src/EvenPowersOf2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07Advanced-Loops/src/PowersOfTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1191,10 +1169,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07Advanced-Loops/src/EvenPowersOf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/07Advanced-Loops/src/GreatestCommonDivisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
