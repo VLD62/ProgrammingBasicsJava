@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3e6124e-3b78-4f04-8a29-918ea9a0381c" name="Default" comment="Adding excersies from Lecture 6">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/src/Rectangle10Stars.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/src/RectangleNxNStars.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/src/SquareFrame1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/src/SquareOfStars2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/src/TriangleDollars.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ProgrammingBasicsJava/SquareFrame.class" afterPath="$PROJECT_DIR$/out/production/ProgrammingBasicsJava/SquareFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/src/ChristmasTree2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/src/RhombusOfStars2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProgrammingBasicsJava.iml" afterPath="$PROJECT_DIR$/ProgrammingBasicsJava.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,26 +20,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RectangleOfNxNStars.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06Drawing-With-Loops/src/RectangleOfNxNStars.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="16" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SquareFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06Drawing-With-Loops/src/SquareFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TriangleOfDollars.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06Drawing-With-Loops/src/TriangleOfDollars.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SquareFrame1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SquareFrame1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/src/SquareFrame1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -121,11 +90,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="RhombusOfStars2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/RhombusOfStars2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChristmasTree2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/ChristmasTree2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="RhombusOfStars.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06Drawing-With-Loops/src/RhombusOfStars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -176,8 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03Simple-Conditions/src/Number0_100toText.java" />
-        <option value="$PROJECT_DIR$/03Simple-Conditions/src/TransportPrice.java" />
         <option value="$PROJECT_DIR$/03Simple-Conditions/src/PoolPipes.java" />
         <option value="$PROJECT_DIR$/04Complex-Calculations/src/PersonalTitles.java" />
         <option value="$PROJECT_DIR$/04Complex-Calculations/src/SmallShop.java" />
@@ -227,6 +214,8 @@
         <option value="$PROJECT_DIR$/Exercises/src/SquareOfStars2.java" />
         <option value="$PROJECT_DIR$/Exercises/src/TriangleDollars.java" />
         <option value="$PROJECT_DIR$/Exercises/src/SquareFrame1.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/RhombusOfStars2.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/ChristmasTree2.java" />
       </list>
     </option>
   </component>
@@ -382,37 +371,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquareFrame1">
-    <configuration default="false" name="Rectangle10Stars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Rectangle10Stars" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ProgrammingBasicsJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="RectangleNxNStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="RectangleNxNStars" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ProgrammingBasicsJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ChristmasTree2">
     <configuration default="false" name="SquareOfStars2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SquareOfStars2" />
@@ -446,6 +405,36 @@
     <configuration default="false" name="SquareFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SquareFrame1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProgrammingBasicsJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RhombusOfStars2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="RhombusOfStars2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProgrammingBasicsJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ChristmasTree2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ChristmasTree2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -663,19 +652,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Rectangle10Stars" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RectangleNxNStars" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SquareOfStars2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TriangleDollars" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SquareFrame1" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SquareOfStars2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TriangleDollars" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SquareFrame1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RhombusOfStars2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ChristmasTree2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SquareFrame1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TriangleDollars" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SquareOfStars2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RectangleNxNStars" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Rectangle10Stars" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ChristmasTree2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RhombusOfStars2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SquareFrame1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TriangleDollars" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SquareOfStars2" />
       </list>
     </recent_temporary>
   </component>
@@ -707,7 +696,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732734" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32700422" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -805,8 +794,20 @@
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercises/src/RhombusOfStars2.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercises/src/RhombusOfStars2.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="30" />
+      <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -815,20 +816,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03Simple-Conditions/src/PasswordGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03Simple-Conditions/src/PoolPipes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05Loops/src/NumbersFrom1to100.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1123,14 +1110,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06Drawing-With-Loops/src/RhombusOfStars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06Drawing-With-Loops/src/SquareFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1191,6 +1170,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06Drawing-With-Loops/src/RhombusOfStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/RhombusOfStars2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/ChristmasTree2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
           <folding />
         </state>
       </provider>
