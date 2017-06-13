@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/05Loops/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06Drawing-With-Loops/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07Advanced-Loops/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
